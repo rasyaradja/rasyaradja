@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Rasya Radja from Jakarta, Indonesia<br><br>📚 I'm Studying learning Computer Science<br>My Passion lies in the realm of Data, AI and Cloud Computing</p>
+<p align="left">I'm Rasya Radja from Jakarta, Indonesia<br><br>📚 I'm Studying Computer Science<br>My Passion lies in the realm of Data, AI and Cloud Computing</p>
 
 ###
 
